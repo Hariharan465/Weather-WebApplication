@@ -1,2 +1,8 @@
-# Weather-WebApplication
-The Weather Web App is a sleek and responsive web application that lets users check the current weather and forecasts for any city in the world. It fetches real-time weather data from a third-party API and displays it with a clean, user-friendly interface.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
